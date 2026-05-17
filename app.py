@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-from joblib import load
+
 
 from sklearn.neural_network import MLPRegressor
 import pandas as pd
